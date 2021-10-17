@@ -1,3 +1,7 @@
-Hello I am Using git 
+cellor
+I am Using git 
 
 And i want to proffesional in it
+
+now I am editing the older text to see the power of git
+
